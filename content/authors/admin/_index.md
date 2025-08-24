@@ -55,10 +55,10 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD in OTIM
-    institution: Cornell Tech
-  - area: MEng in ORIE
-    institution: Cornell Tech
+  - area: PhD in Operations, Technology & Information Management
+    institution: Cornell Tech, Johnson Graduate School of Management
+  - area: MEng in Operations Research & Information Engineering
+    institution: Cornell Tech, School of ORIE
   - area: Bsc in Math & Economics
     institution: Renmin University of China
     
