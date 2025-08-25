@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "20rem"
 
 sections:
   - block: resume-biography-3
@@ -20,7 +20,6 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: dark
-      css_max-width: 1200px
       # Avatar customization
       avatar:
         size: medium  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
