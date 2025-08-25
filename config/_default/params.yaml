@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: red
+  color: blue
 
 # SEO
 marketing:
@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Lorraine Yuan"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {2025} Lorraine Yuan'
     license:
       enable: true
       allow_derivatives: false
@@ -49,8 +49,8 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: 'Aug 25 2025'
+  time_format: '11:59 PM'
 
 # Site features
 features:
