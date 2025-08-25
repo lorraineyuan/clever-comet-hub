@@ -7,6 +7,7 @@ type: landing
 design:
   # Default section spacing
   spacing: "4rem"
+  max-width: 1200px
 
 sections:
   - block: resume-biography-3
