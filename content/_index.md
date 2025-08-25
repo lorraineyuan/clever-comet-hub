@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      padding: ['20px', '0', '20px', '0']
+      padding: ['250px', '0', '20px', '0']
       css_class: dark
       # Avatar customization
       avatar:
