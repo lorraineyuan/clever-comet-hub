@@ -22,7 +22,7 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-Role/position/tagline
+# Role/position/tagline
 role: Johnson School of Business
 
 # Organizations/Affiliations to display in Biography blox

@@ -1,4 +1,4 @@
 ---
-title: Blog
+title: Job Market Paper
 view: article-grid
 ---
