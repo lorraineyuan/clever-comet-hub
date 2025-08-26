@@ -76,7 +76,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: article-grid
+      view: showcase
 
   - block: collection
     id: OWP
@@ -107,7 +107,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: article-grid
+      view: showcase
 
   - block: collection
     id: talks
