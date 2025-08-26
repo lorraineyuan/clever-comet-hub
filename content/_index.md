@@ -59,7 +59,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - JMP
+          - post
         author: ""
         category: ""
         tag: ""
