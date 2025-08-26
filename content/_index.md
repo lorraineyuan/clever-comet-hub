@@ -50,7 +50,7 @@ sections:
   - block: collection
     id: JMP
     content:
-      title: Recent Posts
+      title: Job Market Paper
       subtitle: ''
       text: 'Check out my recent blog posts below!'
       # Choose how many pages you would like to display (0 = all pages)
