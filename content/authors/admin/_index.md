@@ -50,17 +50,10 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-education:
-  - area: PhD in OTIM
-    institution: Cornell Tech, Johnson School of Management
-  - area: MEng in ORIE
-    institution: Cornell Tech, School of ORIE
-  - area: Bsc in Math & Economics
-    institution: Renmin University of China
+  - Data-driven Optimization
+  - Mechanism Design
+  - Differential Privacy
+  - Human-AI Collaboration
     
 ---
 
