@@ -8,11 +8,11 @@ main:
     url: /
     weight: 10
   - name: Job Market Paper
-    url: /#JMP
+    url: /JMP
     weight: 11
   - name: Other Working Papers
-    url: /#papers
+    url: /papers
     weight: 12
   - name: Teaching Experiences
-    url: /#teaching
+    url: /teaching
     weight: 13
