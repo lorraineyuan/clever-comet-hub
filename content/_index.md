@@ -35,9 +35,8 @@ sections:
           size: cover
           position: center
           parallax: false
-      biography:
-        style:
-          max-width: 1200px
+  
+
     
   - block: markdown
     content:
@@ -51,17 +50,38 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+
   - block: collection
-    id: papers
+    id: JMP
     content:
-      title: Featured Publications
+      title: Recent Posts
+      subtitle: ''
+      text: 'Check out my recent blog posts below!'
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
       filters:
+        # The folders to display content from
         folders:
-          - publication
-        featured_only: true
+          - post
+        author: ""
+        category: ""
+        tag: ""
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+      offset: 0
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
     design:
-      view: article-grid
-      columns: 2
+      # Choose a listing view
+      view: card
+
   - block: collection
     content:
       title: Recent Publications
@@ -72,6 +92,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
   - block: collection
     id: talks
     content:
@@ -82,6 +103,7 @@ sections:
     design:
       view: article-grid
       columns: 1
+
   - block: collection
     id: news
     content:
