@@ -35,6 +35,9 @@ sections:
           size: cover
           position: center
           parallax: false
+      biography:
+        style:
+          max-width: 1200px
     
   - block: markdown
     content:
