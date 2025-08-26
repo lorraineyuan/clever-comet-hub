@@ -76,7 +76,8 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: showcase
+      view: article-grid
+      columns: 1
 
   - block: collection
     id: OWP
@@ -118,7 +119,7 @@ sections:
           - event
     design:
       view: article-grid
-      columns: 1
+      columns: 5
 
   - block: collection
     id: news
