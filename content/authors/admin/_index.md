@@ -49,11 +49,11 @@ profiles:
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
-Research Interests:
+Interests:
   - Data-driven Optimization
-  - Mechanism Design
-  - Differential Privacy
   - Human-AI Collaboration
+  - Differential Privacy
+  - Mechanism Design
     
 ---
 
