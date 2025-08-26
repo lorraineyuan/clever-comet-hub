@@ -22,12 +22,12 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
-# role: Chief Scientist
+Role/position/tagline
+role: Johnson School of Business
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Cornell Tech
+  - name: Cornell Tech, Cornell University
   #  url: https://openai.com/
 
 # Social network links
@@ -49,7 +49,7 @@ profiles:
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
-interests:
+Research Interests:
   - Data-driven Optimization
   - Mechanism Design
   - Differential Privacy
