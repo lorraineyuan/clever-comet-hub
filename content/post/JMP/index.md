@@ -1,8 +1,8 @@
 ---
 title: Privacy-Preserving Data-Driven Inventory Management
-summary: 
+summary: ""
 date: 
-math: true
+math: false
 authors:
   - admin
 ---
