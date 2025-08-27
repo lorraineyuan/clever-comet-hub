@@ -1,7 +1,7 @@
 ---
 title: Privacy-Preserving Data-Driven Inventory Management
 summary: 
-date: 17 Ap, 2025
+date: 16/04/25
 math: true
 authors:
   - admin
